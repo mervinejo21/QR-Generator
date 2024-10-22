@@ -2,6 +2,9 @@
 
 This is a QR Generator project that allows you to generate QR codes for various purposes.
 
+![Screenshot 2024-06-04 230633](https://github.com/user-attachments/assets/0858b3fd-a920-4947-a1c5-cc0379dc4b93)
+
+
 ## Features
 
 - Generate QR codes for URLs, text, contact information, and more.
